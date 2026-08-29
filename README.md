@@ -11,27 +11,27 @@ Hi, I'm a **BSc Computer Science with PTY** student at the **University of Surre
 
 ---
 
-## 🛠️ Tools I Use
-<h4>🐍 Python</h4>
+## Tools I Use
+<h4>Python</h4>
 
 - **Django**
 - **OpenCV**
 - **Numpy**
 - **PIL**
 
-<h4>🖥️ Java</h4>
+<h4>Java</h4>
 
 - **Junit**
 - **Mockito**
  
-<h4>🌐 JS, HTML, CSS</h4>
+<h4>JS, HTML, CSS</h4>
 
 - Express.js
 - NodeJS
   
 ---
 
-## 📦 Future project ideas
+## Future project ideas
 
 - **Selenium** - Revive an old selenium project of automating accounts on social media. 
 - **Portfolio** - I should really have an online portfolio by now.
